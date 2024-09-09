@@ -1,0 +1,7 @@
+.NameField, t1{
+    display:flex;
+    justify-items: center;
+    align-items: center;
+
+    font-size: 2rem;
+}
