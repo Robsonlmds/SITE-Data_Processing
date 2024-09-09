@@ -3,27 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style src="Style.css"></style>
-    <title>Project-Dados</title>
+    <link rel="stylesheet" href="styles.css">
+    <title>Data Processing</title>
 </head>
 <body>
-    <t1> Project-Dados </t1>
+    <h1>Data Processing</h1>
 
-    <div class="NameField"><br>
-        Name:
+    <div class="NameField">
+        <label for="nameInput">Name:</label>
+        <input type="text" id="nameInput" placeholder="Enter your name">
+        <button onclick="SetName()">Send</button>
         <p id="putName"></p>
     </div>
 
-    <div class="cpfField"><br>
-        CPF:
-        <p id="putcpf"></p>
+    <div class="cpfField">
+        <label for="cpfInput">CPF:</label>
+        <input type="text" id="cpfInput" placeholder="Enter your CPF">
+        <button onclick="SetCpf()">Send</button>
+        <p id="putCpf"></p>
     </div>
-    
+
     <div class="tellField">
-        Tell:
+        <label for="telInput">Tel:</label>
+        <input type="text" id="telInput" placeholder="Enter your phone number">
+        <input type="text" id="dddInput" placeholder="Enter DDD">
+        <button onclick="SetTell()">Send</button>
         <p id="putTel"></p>
     </div>
-   
-    <script src="Script.js"></script>
+
+    <script src="script.js"></script>
 </body>
-</html> 
+
+<footer>
+    <a class="footerthings" href="https://github.com/Robsonlmds">
+        <button>Made by RobsonLMDS</button>
+    </a>
+</footer>
+</html>
