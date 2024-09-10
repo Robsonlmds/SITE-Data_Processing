@@ -16,7 +16,7 @@ function SetTell() {
         .replaceAll(")", "")
         .replaceAll(" ", "")
         .slice(0, 9);
-        
+
     let cutTell1 = tell.slice(0, 5);
     let cutTell2 = tell.slice(5, 9);
 

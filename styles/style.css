@@ -40,7 +40,9 @@ p {
     color: #555;
 }
 
-.NameField, .cpfField, .tellField {
+.NameField,
+.cpfField,
+.tellField {
     display: flex;
     flex-direction: column;
     margin-bottom: 20px;
@@ -75,7 +77,9 @@ button:hover {
     background-color: #45a049;
 }
 
-#putName, #putCpf, #putTel {
+#putName,
+#putCpf,
+#putTel {
     background-color: #f4f4f4;
     padding: 10px;
     border-radius: 5px;
@@ -117,7 +121,7 @@ footer button:hover {
     body {
         padding: 10px;
     }
-    
+
     div {
         padding: 15px;
     }
