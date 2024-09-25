@@ -9,7 +9,6 @@
 <!--ts-->
 
    * [Sobre](#sobre)
-   * [Tabela de Conteúdo](#tabela-de-conteudos)
    * [Instalação](#instalacao)
    * [Como Usar](#como-usar)
       * [Pré-requisitos](#pre-requisitos)
@@ -29,8 +28,7 @@ O **Data Processing** é um sistema criado para processar e corrigir dados conce
 1. Clone este repositório:
    ```bash
    git clone https://github.com/Robsonlmds/data_processing.git
-## Como Usar
-
+   
 ### Pré-requisitos
 - Navegador moderno com suporte a JavaScript.
 - Ambiente de desenvolvimento configurado para execução de páginas HTML e JS.
