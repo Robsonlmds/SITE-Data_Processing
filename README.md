@@ -12,10 +12,6 @@
    * [Instalação](#instalacao)
    * [Como Usar](#como-usar)
       * [Pré-requisitos](#pre-requisitos)
-      * [Arquivos Locais](#arquivos-locais)
-      * [Arquivos Remotos](#arquivos-remotos)
-      * [Múltiplos Arquivos](#multiplos-arquivos)
-      * [Combinação](#combinacao)
    * [Testes](#testes)
    * [Tecnologias](#tecnologias)
 
@@ -31,21 +27,11 @@ O **Data Processing** é um sistema criado para processar e corrigir dados conce
    
 ### Pré-requisitos
 - Navegador moderno com suporte a JavaScript.
-- Ambiente de desenvolvimento configurado para execução de páginas HTML e JS.
 
 ### Arquivos Locais
 1. Abra o arquivo `index.html` no seu navegador.
 2. Insira os dados nos campos de entrada (DDD, telefone, nome, CPF).
 3. Veja os dados formatados automaticamente no display de resultados.
-
-### Arquivos Remotos
-Se o sistema for utilizado em um servidor remoto, acesse o link do projeto e siga os mesmos passos para formatar os dados.
-
-### Múltiplos Arquivos
-Você pode modificar o projeto para suportar múltiplas entradas simultâneas.
-
-### Combinação
-O sistema pode ser customizado para combinar diferentes tipos de dados a partir de múltiplos arquivos ou fontes de dados, conforme necessário.
 
 ## Testes
 1. Insira valores de teste nos campos de DDD, telefone, nome e CPF.
