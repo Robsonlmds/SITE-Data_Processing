@@ -1,9 +1,11 @@
-# Data Processing
-
-<h1 align="center">
-    <img src="/assets/data_processing.gif">
-</h1>
-
+<div>
+    <h1 align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Silkscreen&size=35&center=true&vCenter=true&width=700&height=70&duration=5000&lines=Data+Processing;" />
+    </h1>
+    <h1 align="center">
+        <img src="/assets/data_processing.gif">
+    </h1>
+</div>
 
 ## Sobre
 O **Data Processing** é um sistema criado para processar e corrigir dados concertados de maneira eficiente e automatizada. Ele remove caracteres indesejados de entradas como DDD, telefone, nome e CPF, e os formata de forma padronizada. Ideal para fluxos de trabalho que necessitam de tratamento consistente de dados.
