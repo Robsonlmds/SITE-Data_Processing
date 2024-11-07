@@ -10,7 +10,7 @@
 </div>
 
 <h1 align="center">
-    <img src="/assets/data_processing.gif">
+     <img alt="videoSite" title="videoSite" src="/assets/data_processing.gif"/>
 </h1>
 
 ### Descrição
